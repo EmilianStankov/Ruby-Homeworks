@@ -1,0 +1,15 @@
+
+NumberSet
+[32m  contains multiple numbers[0m
+[32m  contains only unique numbers[0m
+[32m  contains only unique numbers of different types[0m
+[32m  can filter SignFilter[0m
+[32m  can filter TypeFilter[0m
+[32m  can filter standart filter[0m
+[32m  can combine two filters with "and" rule[0m
+[32m  can combine two filters with "or" rule[0m
+[32m  contains no elements[0m
+[32m  contains elements[0m
+
+Finished in 0.005 seconds (files took 0.15801 seconds to load)
+[32m10 examples, 0 failures[0m
